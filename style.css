@@ -190,13 +190,16 @@ nav ul {
 .banner-texto2 h2 {
     margin-bottom: 2%;
     color: #17578f;
+    margin-left: 5%;
 }
 
 .banner-texto2 p {
     font-size: 14px;
+    margin-left: 5%;
 }
 
 .banner-botao2 {
+    margin-left: 5%;
     margin-top: 34px;
     padding: 11px 25px;
     font-size: 15px;
@@ -218,6 +221,7 @@ nav ul {
     max-width: 100%;
     width: 550px;
     border-radius: 4px;
+    margin-left: 5%;
 }
 
 .titulo-servico {
